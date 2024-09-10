@@ -72,10 +72,9 @@ npm start
 
 ## University of Toronto
 Programming on the Web (CSC309 Course Project) <br>
-Grade: 96%
 
 ## Authors
-Malaikah Hussain, Cassandra Tin Kwon Yuen, Daelenia Susanto, Elena Scobici
+Malaikah Hussain, Elena Scobici, Daelenia Susanto, Cassandra Tin Kwon Yuen
 
 
 
